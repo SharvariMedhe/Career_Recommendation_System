@@ -1,9 +1,6 @@
-# Career_Recommendation_System
-
-This System was as an initiative for Abhyuday, IIT Bombay's Career Counselling Campaign
 
 # Content-Based Recommendation System
-
+This System was an initiative for Abhyuday, IIT Bombay's Career Counselling Campaign.
 This repository contains the code for a content-based recommendation system using Word2Vec embeddings and a hybrid K-NN and cosine similarity model. 
 
 ## Overview
